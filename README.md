@@ -1,3 +1,3 @@
 # merge-konflikte-demo
-## ohne Brain nicht
+## ohne Brain nicht möglich
 ### lost
